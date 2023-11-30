@@ -15,16 +15,22 @@ CCTV5+2,https://epg.pw/stream/8e87dfe99f2a476ed0f64027d3fe221c0aa002845001d44e3e
 无线财经体育资讯台,http://live.cooltv.top/tv/tvb.php?id=2&hq
 ELEVEN體育2台,http://61.221.81.93:8078/hls/26/80/esport2.m3u8
 
+少儿,#genre#
+卡酷少儿,https://epg.pw/stream/2250bd009db2db0c031e433858e84cec859ac312f1e1e5b1e6e79946f1dcfa5f.m3u8
+百视通4K儿童,http://php.jdshipin.com:8880/iptv.php?id=bst4ket
+浙江少儿,http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8?k=1a7559a51eeb880b021619a07f463ac4&t=1577153787
+
 cctv,#genre#
 cctv4,https://cfyy.cc/ds/ysp/qp.php?id=cctv4k
 直播中国,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 
 4k,#genre#
-百视通4K儿童,http://php.jdshipin.com:8880/iptv.php?id=bst4ket
 百视通4K电影,http://php.jdshipin.com:8880/iptv.php?id=bst4kdy
 百视通4K纪实,http://php.jdshipin.com:8880/iptv.php?id=bst4kjs
 
 电视,#genre#
+珠江,https://epg.pw/stream/51b2622bc0ab3fea23acfd8d9b0314a954a98e5e79d4337650f58bee32357425.ctv
+广东卫视,https://epg.pw/stream/225e87fe5febdfc8f67a9f4b411beeb1353495d58b9c9c4477eff7a62d1ecbcf.m3u8
 CCTV-1,https://live.metshop.top/hbgd.php?id=cctv1hd_3000
 CCTV-2,https://live.metshop.top/hbgd.php?id=cctv2hd_3000
 CCTV-3,https://live.metshop.top/hbgd.php?id=cctv3hd_3000
